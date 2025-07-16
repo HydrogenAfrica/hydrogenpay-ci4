@@ -20,7 +20,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^8.0",
+                "php": "^7.4 || ^8",
                 "ext-json": "*",
                 "codeigniter4/settings": "^2.2"
             },
